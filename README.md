@@ -7,42 +7,25 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-## Node.js
 
- Phishfall runs on Node.js Version 16.17.0 and higher. Please ensure you have Node.js installed via the [official website](https://nodejs.org/en).
+**Phish Fall** is an interactive platform designed to train employees on identifying and mitigating cyber threats through customizable phishing email templates. This personal project combines advanced web development technologies to provide a practical and engaging educational tool for understanding phishing attempts.
 
-## Next.js
+> Note: This project is intended solely for educational purposes and personal use. It is not intended for business or commercial applications. Use responsibly.
 
-This project is built using [Next.js](https://nextjs.org), a React framework. Next.js is automatically installed when you install all dependencies for this project.
+## 🛠️ Customizable Phishing Scenarios
+- Create phishing email templates tailored to various scenarios using Handlebars.js.
+- Send customized emails with Nodemailer, simulating real-world threats for better training.
+## 📊 Performance Analytics
+- Track and visualize employee responses using Chart.js.
+- Gain actionable insights with detailed and intuitive dashboards.
+## 🚀 Future-Ready Deployment
+- Seamlessly deploy the platform using Docker for containerization.
 
-### Dependencies
+## Disclaimer
 
-```bash
-# Install dependencies
-npm i
+This project is a personal educational tool meant to raise awareness and improve understanding of phishing threats. It should not be used for malicious purposes. Use at your own discretion and always adhere to ethical practices.
 
-# Add dependency
-npm i <dependency>
+## Contributing
+Contributions are welcome! If you'd like to enhance Phish Fall, feel free to fork the repository and submit a pull request.
 
-# Remove dependency
-npm un <dependency>
-```
-
-### Running the Website Locally
-
-```bash
-# Open a browser at localhost:3000
-npm run dev
-```
-
-### Linting Code via Eslint
-
-```bash
-npm run eslint
-```
-
-### Build the Website
-
-```bash
-npm run build
-```
+For any questions or feedback, please feel free to contact me!
